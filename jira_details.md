@@ -2,17 +2,17 @@
 
 ## Epic
 **ID:** PF-5
-**Summary:** Implement Authentication Module
-**Description:** This epic covers all tasks related to the implementation of the authentication module.
+**Summary:** Upload a single valid image (.jpg, .png) and tag one friend
+**Description:** The image uploads successfully and appears in the post. The post is visible on your timeline and to your friend's timeline
 
 ## Story
 **ID:** PF-6
 **Epic:** PF-5
-**Summary:** User Login Functionality
-**Description:** As a user, I want to be able to log in to the application so that I can access my dashboard.
+**Summary:** Add new to post on Facebook account.
+**Description:** As a user, I want to add a Facebook post by uploading image and tagging some friends. Moreover, the post should be visible on the timeline also. 
 
 ## Task
 **ID:** PF-7
 **Story:** PF-6
-**Summary:** Create Login Page
-**Description:** Design and implement the login page for the application.
+**Summary:** Uploading Image on Facebook
+**Description:** As a user, I want to make a post on Facebook by uploading images and tagging people.
